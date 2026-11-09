@@ -1,0 +1,17 @@
+{
+  "name": "javascript-operators-assignment",
+  "version": "1.0.0",
+  "description": "Beginner JavaScript assignment covering arithmetic and assignment operators",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "javascript",
+    "arithmetic-operators",
+    "assignment-operators",
+    "beginners"
+  ],
+  "author": "Hassan Abdi",
+  "license": "MIT"
+}
