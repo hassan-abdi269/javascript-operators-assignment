@@ -56,6 +56,84 @@
 // Q17. Declare exponentiationScore with the value 3, then use **= to raise it to the power of 2.
 
 
+
+
+// ==========================================
+// PART 3: LOGICAL OPERATORS
+// ==========================================
+
+// Q18. Declare a variable named isAdult and assign it true.
+
+// Q19. Declare a variable named hasID and assign it true.
+
+// Q20. Declare canEnter and use the AND (&&) operator
+// to check whether isAdult AND hasID are both true.
+
+// Q21. Declare hasTicket and assign it false.
+
+// Q22. Declare canAccess and use the OR (||) operator
+// to check whether hasID OR hasTicket is true.
+
+// Q23. Declare isBlocked and assign it true.
+
+// Q24. Declare isAllowed and use the NOT (!) operator
+// to reverse the value of isBlocked.
+
+
+// ==========================================
+// PART 4: COMPARISON OPERATORS
+// ==========================================
+
+// Q25. Declare a variable named equalResult.
+// Compare 10 and "10" using ==.
+
+// Q26. Declare strictEqualResult.
+// Compare 10 and "10" using ===.
+
+// Q27. Declare notEqualResult.
+// Compare 10 and 5 using !=.
+
+// Q28. Declare strictNotEqualResult.
+// Compare 10 and "10" using !==.
+
+// Q29. Declare greaterThanResult.
+// Check whether 20 is greater than 10.
+
+// Q30. Declare lessThanResult.
+// Check whether 5 is less than 10.
+
+// Q31. Declare greaterOrEqualResult.
+// Check whether 10 is greater than or equal to 10.
+
+// Q32. Declare lessOrEqualResult.
+// Check whether 8 is less than or equal to 10.
+
+
+// ==========================================
+// PART 5: STRING OPERATORS
+// ==========================================
+
+// Q33. Declare firstName and assign it "Hassan".
+
+// Q34. Declare lastName and assign it "Abdi".
+
+// Q35. Declare fullName and combine firstName and lastName
+// using the + operator, with a space between them.
+
+// Q36. Declare welcomeMessage and assign it "Welcome".
+
+// Q37. Use the += operator to add " to JavaScript"
+// to welcomeMessage.
+
+
+// ==========================================
+// BONUS QUESTION
+// ==========================================
+
+// Print ALL your variables to the console using console.log().
+
+
+
 // ==========================================
 // BONUS QUESTION
 // ==========================================
